@@ -2,29 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc3cca99-5ed8-4c31-8427-220c03024dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/empresa/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/funcionario/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gestao_rh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/gestao_rh/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/departamentos/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/departamentos/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/documentos/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/documentos/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/documentos/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/documentos/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/empresa/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/empresa/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/funcionario/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/funcionario/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/funcionario/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/funcionario/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/funcionario/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/funcionario/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/registro_de_hora/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/registro_de_hora/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/registro_de_hora/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/registro_de_hora/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +151,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
